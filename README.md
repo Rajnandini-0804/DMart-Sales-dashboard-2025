@@ -38,7 +38,7 @@ This sales analysis project aims to understand DMart's sales trends across diffe
 🎯 Conclusion
 The DMart Sales 2025 Analysis Dashboard provides a comprehensive and interactive way to explore sales data, focusing on product categories, shipping methods, and regional performance. Slicers and a Ship Date Timeline enhance the user experience by enabling dynamic filtering and trend analysis.
 
-📂 Download & Explore: 🚀 
+📂 Download & Explore: 🚀 <a href="https://github.com/Rajnandini-0804/DMart-Sales-dashboard-2025/blob/main/Main%20Excel%20File%20(Containing%20Dashboard%20%26%20Dataset).xlsx">dataset->working->dashboard</a>
 
 
 
